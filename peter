@@ -1,0 +1,13 @@
+class Peter {
+  public static void main(String[] args) {
+    int age1 = 27;
+    int age2 = 30;
+    int x;
+    
+    x =age2 - age1;
+    
+    
+   System.out.println("age diff:" + x);
+    System.out.print("my name is Selwyn Roberts");
+    System.out.print(" I am 19");
+  }
